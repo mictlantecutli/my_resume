@@ -1,0 +1,21 @@
+/*
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+*/
+
+body {
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+
+h1 {
+  background-color: hsl(240, 100%, 50%, 1);
+  color: white;
+}
+
+h2 {
+  background-color: #ffd700;
+  color: white;
+}

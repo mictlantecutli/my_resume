@@ -19,3 +19,32 @@ h2 {
   background-color: #ffd700;
   color: white;
 }
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(191, 187, 187);
+}
+
+table {
+  width: 100%;
+  border: 1px solid black;
+}
+
+dt {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+section {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+h1 {
+
+  border: 1px dotted black;
+  padding: 10px 0px 20px 30px;
+  margin: 0 auto;
+}
